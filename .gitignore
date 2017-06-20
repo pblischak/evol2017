@@ -3,7 +3,8 @@
 .ipynb_checkpoints
 .DS_Store
 seedms
-seqs.txt
-trees.tre
+seqs*
+trees*
 hyde-*.txt
 old-hyde-*.txt
+*.pdf
