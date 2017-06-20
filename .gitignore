@@ -1,0 +1,9 @@
+*~
+.*~
+.ipynb_checkpoints
+.DS_Store
+seedms
+seqs.txt
+trees.tre
+hyde-*.txt
+old-hyde-*.txt
